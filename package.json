@@ -1,0 +1,16 @@
+{
+  "name": "expressserver-static",
+  "version": "1.0.0",
+  "description": "The simplest static-resource downloading server based on Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "QM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
